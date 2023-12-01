@@ -6,7 +6,7 @@ const server = express();
 server.use(express.json());
 server.use("/api/cars", carsRouter);
 server.use("*", (req, res, next) => {
-  next({ status: 404, message: "not found!" });
+  next({ status: 404, message: "not found" });
 });
 
 // eslint-disable-next-line no-unused-vars
