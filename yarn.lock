@@ -3813,6 +3813,11 @@ vary@~1.1.2:
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==
 
+vin-validator@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/vin-validator/-/vin-validator-1.0.0.tgz#1765626b8558b2402f77b6c25c7617f73cecae67"
+  integrity sha512-N8Oydc8tkgmHFaQHkZZozQi8utwoYrutIU4MU8aIQKCVEUpcJTO+q3zvXqEtaD0DJSxm9JBJuM9YpEyV7Mfi6g==
+
 walker@^1.0.8:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/walker/-/walker-1.0.8.tgz#bd498db477afe573dc04185f011d3ab8a8d7653f"
