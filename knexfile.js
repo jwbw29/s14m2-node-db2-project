@@ -15,6 +15,8 @@ const sharedConfig = {
   },
 }
 
+//test
+
 module.exports = {
   development: {
     ...sharedConfig,
