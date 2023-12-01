@@ -35,7 +35,6 @@ router.post(
     } catch (err) {
       next(err);
     }
-    res.json("posting new car");
   }
 );
 
